@@ -6,19 +6,27 @@ Ingeniero en Electrónica Industrial y Automática especializado en **Big Data, 
 
 Perfil técnico orientado al **análisis, resolución de problemas complejos y la Inteligencia Artificial**, con capacidad para trabajar desde la preparación y modelización de datos hasta Machine Learning, Deep Learning, procesamiento distribuido, visualización y productivización de soluciones analíticas.
 
-Mi portfolio reúne proyectos prácticos de **ML/DL, Spark y Databricks, Business Intelligence, series temporales e IA generativa**, con especial atención a la calidad de los datos, la interpretabilidad, la reproducibilidad y la comunicación clara de resultados, orientados a consolidar mi transición profesional hacia el ámbito Data/IA.
+Mi portfolio reúne proyectos prácticos de **Machine Learning, Deep Learning, Computer Vision, Spark y Databricks, Business Intelligence, series temporales e IA generativa**, con especial atención a la calidad de los datos, la interpretabilidad, la reproducibilidad y la comunicación clara de resultados, orientados a consolidar mi transición profesional hacia el ámbito Data/IA.
 
-## Reconocimientos
 
-- 🏆 **1.º clasificado entre 32 participantes y Primer Premio en la Competición de Becas del Máster 2026**.
-- La competición fue **opcional e independiente del TFM** y evaluada por un **jurado de profesionales del sector**, atendiendo principalmente a la aplicación y metodología de las técnicas aprendidas en el Máster, los resultados obtenidos, la exposición y la innovación.
-- 🎓 **Trabajo Fin de Máster calificado con 10/10**.
+## Formación especializada y reconocimientos
+
+🎓 **Máster en Big Data, Data Science e Inteligencia Artificial**
+Universidad Complutense de Madrid · NTIC Master (2025–2026)
+
+- **Calificación media final: 9,8/10.**
+- **Trabajo Fin de Máster calificado con 10/10**.
+- 🏆 **1.º clasificado entre 32 participantes en la Competición de Becas del Máster 2026.**
+
+La competición fue **opcional e independiente del TFM** y evaluada por un **jurado de profesionales del sector**, atendiendo principalmente a la aplicación y metodología de las técnicas aprendidas en el Máster, los resultados obtenidos, la exposición y la innovación.
 
 ## Tecnologías
 
 **Data & Analytics**: Python · pandas · NumPy · SQL · Tableau
 
-**Machine Learning & Deep Learning**: scikit-learn · XGBoost · TensorFlow · Keras · SHAP · SVM · ensembles · RNN · GRU · LSTM · Conv1D
+**Machine Learning**: scikit-learn · XGBoost · SVM · Random Forest · Bagging · Stacking · SHAP
+
+**Deep Learning & Computer Vision**: TensorFlow · Keras · CNN · RNN · GRU · LSTM · Conv1D · Soft Voting · Grad-CAM
 
 **Big Data & procesamiento distribuido**: Apache Spark · PySpark · Databricks · Spark SQL · Parquet · Apache Sedona
 
@@ -37,10 +45,14 @@ Sistema explicable para la detección preventiva de indicadores de riesgo en sal
 
 ---
 
-### 📊 Business Intelligence · Tableau
-[**easy-loans-tableau**](https://github.com/ayllonmotto/easy-loans-tableau)
+### 🖼️ Deep Learning · CNN y Computer Vision
+[**cifar10-cnn-ensemble**](https://github.com/ayllonmotto/cifar10-cnn-ensemble)
 
-Proyecto de Business Intelligence sobre préstamos, comercios y riesgo mediante **Tableau**, con KPIs, parámetros, LOD, análisis Top-N, mapas, dashboards responsive y publicación interactiva en Tableau Public.
+Clasificación de imágenes CIFAR-10 mediante **19 configuraciones CNN y 26 combinaciones de ensemble**. Incluye evolución arquitectónica, regularización, data augmentation, optimización del entrenamiento, soft voting, calibración probabilística e interpretabilidad mediante Grad-CAM.
+
+El sistema final combina cuatro CNN exportadas y dispone de un pipeline de inferencia independiente para clasificar imágenes sin repetir los entrenamientos.
+
+**Resultado:** 89,48 % de accuracy sobre TEST.
 
 ---
 
@@ -48,6 +60,13 @@ Proyecto de Business Intelligence sobre préstamos, comercios y riesgo mediante 
 [**nyc-taxi-spark**](https://github.com/ayllonmotto/nyc-taxi-spark)
 
 Procesamiento distribuido de aproximadamente **11,5 millones de viajes de NYC Taxi** con PySpark, Apache Sedona y Databricks Serverless. Incluye calidad de datos, persistencia Parquet, Spark SQL, análisis geoespacial, Photon y mapas interactivos mediante GitHub Pages.
+
+---
+
+### 📊 Business Intelligence · Tableau
+[**easy-loans-tableau**](https://github.com/ayllonmotto/easy-loans-tableau)
+
+Proyecto de Business Intelligence sobre préstamos, comercios y riesgo mediante **Tableau**, con KPIs, parámetros, LOD, análisis Top-N, mapas, dashboards responsive y publicación interactiva en Tableau Public.
 
 ---
 
@@ -76,7 +95,7 @@ Análisis y predicción de la **generación solar fotovoltaica mensual en Españ
 
 - Data Science y analítica avanzada
 - Machine Learning y selección de modelos
-- Deep Learning
+- Deep Learning y Computer Vision
 - Big Data y procesamiento distribuido
 - Business Intelligence y visualización
 - Series temporales y forecasting

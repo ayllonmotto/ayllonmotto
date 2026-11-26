@@ -12,11 +12,12 @@ Mi portfolio reúne proyectos prácticos de **Machine Learning, Deep Learning, C
 ## Formación especializada y reconocimientos
 
 🎓 **Máster en Big Data, Data Science e Inteligencia Artificial**
+
 Universidad Complutense de Madrid · NTIC Master (2025–2026)
 
 - **Calificación media final: 9,8/10.**
-- **Trabajo Fin de Máster calificado con 10/10**.
-- 🏆 **1.º clasificado entre 32 participantes en la Competición de Becas del Máster 2026.**
+- **Trabajo Fin de Máster: 10/10.**
+- 🏆 **Primer Premio y 1.º clasificado entre 32 participantes en la Competición de Becas del Máster 2026.**
 
 La competición fue **opcional e independiente del TFM** y evaluada por un **jurado de profesionales del sector**, atendiendo principalmente a la aplicación y metodología de las técnicas aprendidas en el Máster, los resultados obtenidos, la exposición y la innovación.
 
